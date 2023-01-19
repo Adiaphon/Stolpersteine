@@ -1,3 +1,1 @@
 # Stolpersteine
-
-asdfjskadfk
