@@ -16,7 +16,7 @@ git clone https://github.com/soerenengels/mmautor.net.git
 
 bundle exec jekyll serve
 
-Was ist eigentlich ... ?
+## Was ist eigentlich ... ?
 Was ist Jekyll?
 
 Die Website ist mit Hilfe von Jekyll, einem Static-Site-Generator, gebaut. Das lässt sich ungefähr so vorstellen, wie ein Brotbackautomat, auch wenn ich noch nie einen benutzt habe. Du gibst verschiedene Zutaten hinein, nimmst Einstellungen vor, drückst Start und am Ende hast du ein fertiges Brot. Entsprechend erstellt Jekyll auf Basis verschiedener Einzelteile und (Markdown-)Dokumente eine entsprechende Ordnerstruktur mit HTML-, CSS- und JS-Dateien. Fertig ist die Website.
@@ -42,7 +42,7 @@ git pull
 git commit -m "Textnachricht, die die Veränderungen beschreibt"
 git push
 
-Was ist Markdown?
+## Was ist Markdown?
 
 Markdown ist eine Auszeichnungssprache, ähnlich wie HTML nur simpler und text-bezogener. Hier findest du einen kurzen Guide und ein kurzes Tutorial.
 Einrichten
