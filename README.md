@@ -1,6 +1,6 @@
 # M.A. Multimedia und Autorschaft
 
-Dies ist das Repository für die [Website](https://mmautor.net/?ref=https://github.com/soerenengels/mmautor.net) des Master-Studiengangs **Multimedia und Autorschaft**. Die Website ist mit _Jekyll_ gebaut und wird mit _Git_ verwaltet.
+Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) des Master-Studiengangs **Multimedia und Autorschaft**. Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
 
 Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website des Studiengangs Multimedia & Autorschaft helfen.
 
@@ -10,27 +10,27 @@ Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege un
 
 Der Schnellstart soll es dir unmittelbar ermöglichen an der Website zu arbeiten.
 
-1. Installiere dafür Jekyll auf deinem Rechner entsprechend eines der [folgenden Guides](https://jekyllrb.com/docs/installation/). (Möglicherweise musst du zunächst die Vorraussetzungen entsprechend des Guides installieren.)
+1. Installiere dafür Bootstarp auf deinem Rechner entsprechend eines der [folgenden Guides](hhttps://getbootstrap.com/). (Möglicherweise musst du zunächst die Vorraussetzungen entsprechend des Guides installieren.)
 
 2. Klone das git-Repository mit Hilfe von Git:
 
 ```bash
-git clone https://github.com/soerenengels/mmautor.net.git
+git clone https://
 ```
 
 3. Starte die lokale Entwicklungsumgebung:
 
 ```bash
-bundle exec jekyll serve
+bundle exec xxxxx serve
 ```
 
 ----
 
 ## Was ist eigentlich ... ?
 
-### Was ist Jekyll?
+### Was ist Bootstrap?
 
-Die Website ist mit Hilfe von [Jekyll](https://jekyllrb.com/), einem Static-Site-Generator, gebaut. Das lässt sich ungefähr so vorstellen, wie ein _Brotbackautomat_, auch wenn ich noch nie einen benutzt habe. Du gibst verschiedene Zutaten hinein, nimmst Einstellungen vor, drückst Start und am Ende hast du ein fertiges Brot. Entsprechend erstellt _Jekyll_ auf Basis verschiedener Einzelteile und (Markdown-)Dokumente eine entsprechende Ordnerstruktur mit HTML-, CSS- und JS-Dateien. Fertig ist die Website.
+Die Website ist mit Hilfe von [Bootstrap](https://getbootstrap.com/), einem Static-Site-Generator, gebaut. Das lässt sich ungefähr so vorstellen, wie ein _Brotbackautomat_, auch wenn ich noch nie einen benutzt habe. Du gibst verschiedene Zutaten hinein, nimmst Einstellungen vor, drückst Start und am Ende hast du ein fertiges Brot. Entsprechend erstellt Bootstrap auf Basis verschiedener Einzelteile und (Markdown-)Dokumente eine entsprechende Ordnerstruktur mit HTML-, CSS- und JS-Dateien. Fertig ist die Website.
 
 ### Was ist Git?
 
@@ -43,7 +43,7 @@ Es gibt einen übergreifenden Punkt, an dem der aktuelle Stand gespeichert wird.
 #### Arbeitsverzeichnis erstmalig herunterladen
 
 ```bash
-git clone https://github.com/soerenengels/mmautor.net.git
+git clone https://github.com/adiphon
 ```
 
 #### Arbeitsverzeichnis updaten
