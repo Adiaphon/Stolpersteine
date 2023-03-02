@@ -11604,6 +11604,61 @@ body {
   }
 }
 
+.masthead_small {
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 20rem;
+  max-height: 25rem;
+  padding: 15rem 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 50, 0.8) 100%, #000 100%), url("../assets/img/Richard.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.masthead_small h1, .masthead_small .h1 {
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 2.5rem;
+  line-height: 2.5rem;
+  letter-spacing: 0.8rem;
+  background: linear-gradient(rgba(255, 255, 255, 1.0), rgba(255, 255, 255, 0.5));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+          background-clip: text;
+}
+.masthead_small h2, .masthead_small .h2 {
+  max-width: 20rem;
+  font-size: 1rem;
+}
+@media (min-width: 768px) {
+  .masthead_small h1, .masthead_small .h1 {
+    font-size: 4rem;
+    line-height: 4rem;
+  }
+}
+@media (min-width: 992px) {
+  .masthead_small {
+    height: 100vh;
+    padding: 0;
+  }
+  .masthead_small h1, .masthead_small .h1 {
+    font-size: 6.0rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.8rem;
+  }
+  .masthead_small h2, .masthead_small .h2 {
+    max-width: 30rem;
+    font-size: 1.25rem;
+  }
+}
+
+
+
+
+
+
+
 .about-section {
   padding-top: 10rem;
   background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
