@@ -1,8 +1,8 @@
 # M.A. Multimedia und Autorschaft
 
-Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) des Master-Studiengangs **Multimedia und Autorschaft**. Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
+Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) die Projektseite "Stolpersteine - Filme gegen das Vergessen". Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
 
-Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website des Studiengangs Multimedia & Autorschaft helfen.
+Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website des Projektes helfen.
 
 ----
 
