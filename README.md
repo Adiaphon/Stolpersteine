@@ -1,4 +1,4 @@
-# M.A. Multimedia und Autorschaft
+# Stolpersteinfilme - gegen das Vergessen
 
 Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) des Master-Studiengangs **Multimedia und Autorschaft**. Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
 
