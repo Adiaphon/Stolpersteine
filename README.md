@@ -5,20 +5,33 @@ Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-
 Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website des Studiengangs Multimedia & Autorschaft helfen.
 
 Hier folgt zunächst die Dokumentation zur
+
 Unterseite zum Film: "Wozu ein Stein"
+
 Diese Unterseite enthält folgende Elemente:
 
 ◦ Header mit Bild, Überschrift und Button zur YouTube-Playlist
+
 ◦ Titel, Länge, Jahr und Namen der Prouzentinnen des entsprechenden Stolperstein-Films
-◦ ◦ das eingebettete Video
+
+◦ das entsprechende, eingebettete Video
+
 ◦ Text zur Videobeschreibung
+
 ◦ Mindestens ein Fontawesome Icon
+
 ◦ Favicon
+
 ◦ Menü
+
 ◦ Footer mit Links zu:
+
 ▪ Copyright inkl. Name der Erstellerin (Kristina Hammermann)
+
 ▪ Impressum
+
 ▪ Kontakt und Datenschutz
+
 ▪ Zurück zur Startseite inkl. Haus-Icon von Font Awesome
 
 
