@@ -11753,3 +11753,10 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* Änderungen im Stylesheet meinerseits */
+
+/* Blocksatz */
+.block {
+  text-align: justify;
+}
