@@ -52,3 +52,7 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+//Fontawesome Kit js Code
+<script src="https://kit.fontawesome.com/d9e6c3b458.js" crossorigin="anonymous"></script>
+
