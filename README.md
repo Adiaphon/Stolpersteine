@@ -353,3 +353,5 @@ Die Datei _Gemfile_ (als auch Gemfile.lock) gehören zu _Jekyll_ bzw. _Ruby_, de
 
 ### perspektivisch
 - Sitemap an englischsprachige Seiten anpassen
+
+Den Bau der Website haben eine Gruppe von Kommiliton:innen und ich kollaborativ gestaltet, so dass die Ergebnisse nicht allzu sehr voneinander abweichen. Dabei war uns insbesondere die Seite mit den vorgegebenen Hilfestellungen und Codes von Bootstrap eine große Hilfe. Im nächsten Schritt würde ich die Website gerne mehr reactive gestalten, in dem Sinne, dass sie moderner aussieht und eventuell ein bisschen verspielter wirkt. 
