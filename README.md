@@ -1,8 +1,33 @@
-# Stolpersteine - Filme gegen das Vergessen
+# Stolpersteinfilme gegen das Vergessen
 
-Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) des Projekts **Stolpersteine - Filme gegen das Vergessen**. Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
+Dies ist das Repository für die [Website](https://stolpersteine.medienkomm.uni-halle.de) des Master-Studiengangs **Multimedia und Autorschaft**. Die Website ist mit _Bootstrap_ gebaut und wird mit _Git_ verwaltet.
 
-Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website helfen.
+Die nachfolgende **Dokumentation** soll folgenden Generationen bei der Pflege und Weiterentwicklung der Website des Studiengangs Multimedia & Autorschaft helfen.
+
+Es folgt die Dokumentation zur Unterseite Ein Leben für die Musik - Auf den Spuren von Leo Schönbach
+Die Website ist folgendermaßen aufgebaut: 
+
+•	horizontales Navigationsleiste mit Links zu den Seiten Filme, Kontakt und Impressum
+
+•	Header mit Bild und Überschrift
+
+•	Titel des Filmes: Ein Leben für die Musik - Auf den Spuren von Leo Schönbach
+
+•	Kurzinfos zum Film: Jahr, Länge und Namen der Autoren
+
+•	Eingebettetes Youtube-Video
+
+•	Video-Beschreibung als Text
+
+•	Foto vom Stolperstein für Leo Schönbach in Halle inkl. Alt-Text
+
+•	Titel des Bildes und Bildunterschrift
+
+•	Footer mit dem Namen der Erstellerin (Theresa Lang), sowie Links zu Datenschutz, Copyright (Informationen zur Lizenz und zum Copyright wurden auf der Impressumsseite ergänzt) und zur Startseite (verlinkt über ein Haus-Icon von Font Awesome)
+
+Weitere Informationen zum Aufbau der Website sind als Anmerkungen in der html-Datei hinterlegt. 
+
+
 
 ----
 
