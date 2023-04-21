@@ -154,6 +154,7 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 1rem;
+  color: #507C85;
 }
 
 p {
@@ -239,11 +240,11 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #f2f2f2;
   text-decoration: underline;
 }
 a:hover {
-  color: #50817e;
+  color: #BF457E;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -4066,7 +4067,7 @@ textarea.form-control-lg {
   }
 }
 .nav-link:hover, .nav-link:focus {
-  color: #50817e;
+  color: #BF457E;
 }
 .nav-link.disabled {
   color: #6c757d;
@@ -4169,6 +4170,7 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   text-decoration: none;
   white-space: nowrap;
+  color: #507C85
 }
 .navbar-nav {
   display: flex;
@@ -11611,7 +11613,7 @@ body {
   min-height: 20rem;
   max-height: 25rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 50, 0.8) 100%, #000 100%), url("../assets/img/Richard.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 50, 0.8) 100%, #000 100%), url("../assets/img/stolpersteine.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11652,7 +11654,23 @@ body {
     font-size: 1.25rem;
   }
 }
+.header-filme{
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 5rem;
+  max-height: 5rem;
+  padding: 1rem 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 50, 0.8) 100%, #000 100%), url("../assets/img/stolpersteine.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
 
+.subheader-filme{
+  padding: 1rem;
+}
 
 
 
@@ -11752,4 +11770,23 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+.p-footer{
+  color: #507C85;
+}
+.a-footer{
+  color: #507C85;
+}
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="de">
+<!-- Vermittelt Meta-Daten, später nicht sichtbar, stellt aber Funktion der Seite sicher -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Übersicht zum Film über Bella Feuchtwanger"/>
+    <title>Stolpersteine - Filme gegen das Vergessen</title>
+<!-- Einbinden Font-Awesome-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <script src="https://kit.fontawesome.com/98b0ccbfc3.js" crossorigin="anonymous"></script>
+<!-- Einbinden Style-Sheet-->
+    <link href="css/styles.css" rel="stylesheet" />
+  </head>
+<!-- Der Body ist der sichtbare Inhalt der Seite --> 
+<!-- Zur Erläuterung, weshalb Style-Elemente z. T. in HTML angepasst, siehe in der Dokumentation  -->
+  <body style="background-color: #f2f2f2;">
+<!-- Navigation entspricht Menü -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">Stolpersteine</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Filme
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Alle Filme</a></li>
+                <li><a class="dropdown-item" href="#">Kategorien</a></li>
+                <li><a class="dropdown-item" href="#">Jahrgänge</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Impressum.html">Impressum</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Kontakt.html">Kontakt</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+<!-- Einbinden eines erstellten Headers extra für die Seiten über die Filmprojekte -->
+    <header class="header-filme">
+      <div class="container-fluid">
+        <h2 style="color: #f2f2f2;"> In falscher Sicherheit - Das Leben der Bella Feuchtwanger</h2></div>
+      </div>
+    </header>
+<!-- In diesem Subheader sollen jeweils die Eckdaten zum jeweiligen Film angepasst werden, also Jahr, Laufzeit und Beteiligte -->
+      <div class="subheader-filme">
+             <h6>2021 | 15 Min. <br>
+            von Milena Giskes, Maike Grabow und Sarah-Maria Köpf</h6>
+      </div>
+<!-- Ab hier ist der eigentliche Inhalt zu den Filmen, also Vidoe, Bild und Text, eingebunden -->
+    <div class="row" style="background-color: #507C85; padding: 1rem;">
+        <div class="col-md-4">
+ <!-- Youtube-Video in einem extra Container, um Responsivität zu errreichen-->         
+          <div class="iframe-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/U4QFMGcw4Fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+          <br> <p style="color: #f2f2f2;"> Link zum Film: <a href="https://www.youtube.com/watch?v=U4QFMGcw4Fo">https://www.youtube.com/watch?v=U4QFMGcw4Fo</a></p>
+        </div>
+        <div class="col-md-4"><img src="assets/img/Bella_main.png" class="img-fluid" alt="Scherenschnitt: Bella Feuchtwanger arbeitet als Redakteurin im Verlag. Ein Still aus dem Film über ihr Leben.">
+        </div>
+        <div class="col-md-4"><p style="color: #f2f2f2;"> Mit Scherenschnitte visualisiert der Film das Leben der wenig bekannten und nach einem selbstständigen Leben strebenden Bella Traubkatz. Im Verlag ihres Bruders Martin Feuchtwanger in Halle wird sie Redakteurin. Der zunehmende Druck veranlasste sie, 1935 ihrem Bruder nach Prag zu folgen. Durch eine Scheinehe und den neuen Pass wägt sie sich in (falscher) Sicherheit vor der Verfolgung durch die Nationalsozialisten. 1943 wurde sie nach Theresienstadt deportiert. Dort verliert sich ihre Spur. </p> 
+          <i class="fa fa-youtube-play" aria-hidden="true" color="#f2f2f2"></i><a href="https://www.youtube.com/watch?v=U4QFMGcw4Fo" color="#f2f2f2";>Hier erfährst Du mehr über Bella:</a> 
+          <br>
+        </div> 
+    </div>
+    <footer>
+      <p class="p-footer"> 
+      <a href="Impressum.html" class="a-footer">Impressum</a>
+<!-- Datenschutz war bisher nicht als eigenes Dokument/Seite verfügbar. Daher wird hier auf selbigen mithilfe eines Ankers verwiesen.-->
+      <a href="impressum.html#Datenschutz" class="a-footer">Datenschutz</a>
+      <i class="fa fa-copyright" aria-hidden="true" color="#507C85"></i> 2023 Valerie Börner
+      </p>
+    </footer>
+<!-- Einbinden Java-Script am Ende des Dokumentes ermöglicht schnelleres Laden-->
+    <p>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    </p>
+  </body>
+</html>
